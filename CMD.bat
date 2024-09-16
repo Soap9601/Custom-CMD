@@ -1,6 +1,6 @@
 
 @echo off
-title pro hacker console
+title CMD
 chcp 65001 >nul
 echo.
 echo.
